@@ -8,3 +8,6 @@ export default function Head() {
     </>
   )
 }
+
+// @chackra-ui/icons
+// npm i react-icons
